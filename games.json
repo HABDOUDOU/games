@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Neon Drift",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Racing",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "title": "Pixel Siege",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Action",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "title": "Mind Grid",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Puzzle",
+    "featured": true
+  },
+  {
+    "title": "Star Vanguard",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Strategy",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "title": "Turbo Strike",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Sports",
+    "trending": true
+  },
+  {
+    "title": "Shadow Rush",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Action",
+    "trending": true
+  },
+  {
+    "title": "Block Quest",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Puzzle",
+    "trending": true
+  },
+  {
+    "title": "Cyber Circuit",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Arcade"
+  },
+  {
+    "title": "Goal Storm",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Sports"
+  },
+  {
+    "title": "Void Runner",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Action"
+  },
+  {
+    "title": "Tactical Ops",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Strategy"
+  },
+  {
+    "title": "Retro Blaster",
+    "image": "images/placeholder.jpg",
+    "url": "#",
+    "category": "Arcade"
+  }
+]
