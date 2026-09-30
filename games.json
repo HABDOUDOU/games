@@ -58,27 +58,42 @@
     "category": "Racing"
   },
   {
-    "title": "Goal Storm",
-    "image": "images/placeholder.jpg",
-    "url": "#",
-    "category": "Sports"
+    "title": "Flying Robot Transform Car Games",
+    "image": "https://static.playgama.com/p-img/pg/flying-robot-transform-car-games/big_preview/35c6286784674c5ab3f28e49b7287003?width=448",
+    "url": "https://playgama.com/export/game/flying-robot-transform-car-games?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Racing"
   },
   {
-    "title": "Void Runner",
-    "image": "images/placeholder.jpg",
-    "url": "#",
-    "category": "Action"
+    "title": "BMG: Ragdoll Car Race",
+    "image": "https://static.playgama.com/p-img/pg/bmg-ragdoll-car-race/big_preview/53d5f807303042de8280929086826725?width=448",
+    "url": "https://playgama.com/export/game/bmg-ragdoll-car-race?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Racing"
   },
   {
-    "title": "Tactical Ops",
-    "image": "images/placeholder.jpg",
-    "url": "#",
-    "category": "Strategy"
+    "title": "Motorcycle Racer: Road Mayhem",
+    "image": "https://static.playgama.com/p-img/pg/motorcycle-racer-road-mayhem/big_preview/172bc19cb4694ac3896516a315ee8499?width=448",
+    "url": "https://playgama.com/export/game/motorcycle-racer-road-mayhem?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Racing"
   },
   {
-    "title": "Retro Blaster",
-    "image": "images/placeholder.jpg",
-    "url": "#",
-    "category": "Arcade"
-  }
+    "title": "Horizon Racer",
+    "image": "https://static.playgama.com/p-img/pg/horizon-racer/big_preview/5f558a014f894ff7abd2e5fdffb13d36?width=448",
+    "url": "https://playgama.com/export/game/horizon-racer?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Racing"
+  },
+
+    {
+    "title": "Bike Rivals",
+    "image": "https://static.playgama.com/p-img/pg/bike-rivals/big_preview/9f78bd20a1234de5a4bd0f06721653fe?width=448",
+    "url": "https://playgama.com/export/game/bike-rivals?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Racing"
+  },
+  
+      {
+    "title": "Ragdoll Racing: Extreme Downhill!",
+    "image": "https://static.playgama.com/p-img/pg/ragdoll-racing-extreme-downhill/big_preview/8f4406e66d22496ab01d67381bc6dfe3?width=448",
+    "url": "https://playgama.com/export/game/ragdoll-racing-extreme-downhill?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Racing"
+  },
+  
 ]
