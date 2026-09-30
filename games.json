@@ -38,24 +38,24 @@
     "trending": true
   },
   {
-    "title": "Shadow Rush",
-    "image": "images/placeholder.jpg",
-    "url": "#",
-    "category": "Action",
+    "title": "Play Game Moto X3M",
+    "image": "https://static.playgama.com/p-img/pg/moto-x3m/big_preview/6863e1c77f624087bae1d217cdf4c240?width=448",
+    "url": "https://playgama.com/export/game/moto-x3m?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Racing",
     "trending": true
   },
   {
-    "title": "Block Quest",
-    "image": "images/placeholder.jpg",
-    "url": "#",
-    "category": "Puzzle",
+    "title": "Drive Quest",
+    "image": "https://static.playgama.com/p-img/pg/drive-quest/big_preview/95019577e05845e9a520646c956dd11c?width=448",
+    "url": "https://drivequest.io/export?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Racing",
     "trending": true
   },
   {
-    "title": "Cyber Circuit",
-    "image": "images/placeholder.jpg",
-    "url": "#",
-    "category": "Arcade"
+    "title": "TRAFFIC Rush Online",
+    "image": "https://static.playgama.com/p-img/pg/traffic-rush-online/big_preview/8b5c9711e59d49f2a3bde681805443f4?width=448",
+    "url": "https://playgama.com/export/game/traffic-rush-online?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Racing"
   },
   {
     "title": "Goal Storm",
