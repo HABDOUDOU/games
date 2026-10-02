@@ -1692,5 +1692,23 @@
     "image": "https://static.playgama.com/p-img/pg/funny-rescue-gardener/big-preview/397c55dbfd654044a343edf0acfc3f49?width=448",
     "url": "https://playgama.com/export/game/funny-rescue-gardener?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
     "category": "Funny"
+  },
+  {
+    "title": "Rise of the Dead",
+    "image": "https://static.playgama.com/p-img/pg/rise-of-the-dead/big-preview/123a84fd979245ed93b03fe4b412cfe2?width=448",
+    "url": "https://playgama.com/export/game/rise-of-the-dead?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Horror"
+  },
+    {
+      "title": "Imposter 3D online horror",
+    "image": "https://static.playgama.com/p-img/pg/imposter-3d-online-horror/big_preview/c4a268f6d7234acaaebdd4a300253cf4?width=448",
+    "url": "https://playgama.com/export/game/imposter-3d-online-horror?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Horror"
+  },
+    {
+      "title": "The Tall Man",
+    "image": "https://static.playgama.com/p-img/pg/the-tall-man/big_preview/cad21af835d348db83f9aace4ccca043?width=448",
+    "url": "https://playgama.com/export/game/the-tall-man?clid=p_06d5e890-ba41-41b3-9108-5055c87607e9",
+    "category": "Horror"
   }
 ]
